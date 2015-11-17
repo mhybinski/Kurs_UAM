@@ -1,0 +1,32 @@
+#container {
+    margin: 0 auto;
+    overflow: auto;
+    width:50%;
+}
+
+form {
+    display: inline-block;
+}
+
+#addButton {
+    display: inline-block;
+}
+
+#list {
+    list-style: none;
+    padding: 5;
+}
+
+#list li span.name {
+    margin-right: 5px;
+}
+
+.active {
+    font-weight: bold;
+}
+
+#workTime, #workTime2 {
+
+    display: inline-block;
+    width: 20pt;
+}
